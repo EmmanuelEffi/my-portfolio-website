@@ -44,7 +44,7 @@ nav .container{
     color: white;
     display: inline-block;
     border-bottom: 3px solid transparent;
-    height: 25px;
+    height: 26px;
     text-decoration: none;
     text-transform: uppercase;
     transition: border-bottom .5s;
